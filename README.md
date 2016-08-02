@@ -10,7 +10,7 @@
 This is a drag and play style animation sample for NJDNPAnimation class, like [Swarm](https://swarmapp.com/) app. It's based on [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) swift library.
 
 # Screenshot :
-![Demo GIF Animation](https://media.giphy.com/media/9fbYYzdf6BbQA/giphy.gif "Demo GIF Animation")
+![Demo GIF Animation](https://raw.githubusercontent.com/Nitin-Joshi/NJDNPAnimation/master/Screenshot/NJDNPAnimation_Screenshot.gif "Demo GIF Animation")
 
 # Installation
 
