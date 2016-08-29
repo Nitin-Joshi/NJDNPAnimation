@@ -7,7 +7,7 @@
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 
-This is a drag and play style animation sample for NJDNPAnimation class, like [Swarm](https://swarmapp.com/) app. It's based on [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) swift library.
+This is a drag and play style animation sample for NJDNPAnimation class, like [Swarm](https://swarmapp.com/) app.
 
 # Screenshot :
 ![Demo GIF Animation](https://raw.githubusercontent.com/Nitin-Joshi/NJDNPAnimation/master/Screenshot/NJDNPAnimation_Screenshot.gif "Demo GIF Animation")
